@@ -37,4 +37,10 @@ body {
 
 .wrapper {
   background-color: #e5c30a;
+  padding: 1.3rem;
+}
+
+section h2 {
+  font-size: 1.5rem;
+  font-weight: bold;
 }
