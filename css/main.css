@@ -63,9 +63,18 @@ section p {
     clear: both;
   }
 
+  .section-letter {
+    vertical-align: middle;
+  }
+
+  .section-icon {
+    vertical-align: middle;
+  }
+
   .img-flex {
     width: 85%;
     text-align: center;
+    vertical-align: middle;
   }
 
 }
