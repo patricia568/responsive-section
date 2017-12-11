@@ -18,3 +18,23 @@ html {
 *, *::before, *::after {
   box-sizing: inherit;
 }
+
+body {
+  margin: 0;
+}
+
+.section-letter {
+  display: block;
+  width: 50%;
+  float: left;
+}
+
+.section-icon {
+  display: block;
+  width: 50%;
+  float: left;
+}
+
+.wrapper {
+  background-color: #e5c30a;
+}
